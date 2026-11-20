@@ -12,7 +12,7 @@ One image summing up the world's news of Thursday, 19 November 2026 — a newspa
 python3 main.py
 ```
 
-Writes the image to `entry.png` (1024×1024 PNG, deterministic, no network — the illustrations in `illustrations/` and the map in `map.jpg` are read from local files).
+Writes the image to `entry.png` (1024×1024 PNG, deterministic, no network — the illustrations and map are read from `illustrations/` and `map.jpg`).
 
 ---
 
